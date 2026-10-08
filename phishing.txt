@@ -1,0 +1,10 @@
+# Ghost Security - Phishing Blocklist
+# One domain per line
+# Lines starting with # are comments
+# Updated by MONCEF128
+#
+apple-verify-login.com
+paypal-secure-update.net
+google-account-locked.xyz
+microsoft-alert-verify.top
+facebook-security-check.click
